@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c:*)",
+      "Bash(python3 \"C:/Users/abhirajp/My Portfolio Site/../plan_writer.py\")",
+      "Bash(PLANFILE=\"C:/Users/abhirajp/.claude/plans/snug-napping-pascal-agent-ae1bbc18599233e66.md\")",
+      "Bash(__NEW_LINE_cfa7c6e7628ab4ee__ python3 -c \":*)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
